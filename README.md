@@ -1,12 +1,12 @@
 ## Szymon Dudek
 
+**Website: [holo911.github.io](https://holo911.github.io)**
+
 Working where security meets machines that move.
 
 - MSc Cyber Security & Resilience, St. Pölten University of Applied Sciences, Austria (current)
 - BSc Applied Computer Science, cybersecurity track, *cum laude*, Howest, Belgium
 - Cisco CyberOps Associate
-
-**Portfolio: [holo911.github.io](https://holo911.github.io)**
 
 ### Work
 
@@ -23,4 +23,4 @@ Python · C · Linux · ROS 2 · YOLO · Wireshark · Burp Suite · Nmap · Dock
 
 ### Contact
 
-[szymond200555@gmail.com](mailto:szymond200555@gmail.com) · [LinkedIn](https://www.linkedin.com/in/szymon-dudek-968469355/)
+[holo911.github.io](https://holo911.github.io) · [szymond200555@gmail.com](mailto:szymond200555@gmail.com) · [LinkedIn](https://www.linkedin.com/in/szymon-dudek-968469355/)
